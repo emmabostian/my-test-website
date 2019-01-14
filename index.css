@@ -1,0 +1,21 @@
+body,
+section {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  background: #8ee9d4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1,
+a {
+  font-family: Tahoma, "sans-serif";
+}
